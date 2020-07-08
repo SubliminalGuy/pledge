@@ -2,8 +2,10 @@
   "users": [
      {"name": "David Schwertgen", "roles": "NC Germany", "id": 1},
      {"name": "Vincent Welsch", "roles": "NC Germany", "id": 2},
-     {"name": "Luis Martin", "roles": "Circus Director", "id": 3},
-     {"name": "Mao Zedong", "roles": "Chair", "id": 4}
+     {"name": "Janina Urban", "roles": "NC Germany", "id": 3},
+     {"name": "Alex Tiffin", "roles": "DSC London", "id": 4},
+     {"name": "Nick Srnicek", "roles": "DSC London", "id": 5},
+    {"name": "Myriam Zedong", "roles": "NC France", "id": 6}, 
   ],
   "profile": {
     "name": "typicode"
