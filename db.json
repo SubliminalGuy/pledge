@@ -1,10 +1,9 @@
 {
   "users": [
-    {
-      {"name": "David Schwertgen", "roles": "NC Germany", "id": 1},
-      {"name": "Yanis Varoufakis", "roles": "Spiritus Rector", "id": 2},
-      {"name": "Luis Martin", "roles": "Circus Director", "id": 3},
-      {"name": "Mao Zedong", "roles": "Chair", "id": 4}
+     {"name": "David Schwertgen", "roles": "NC Germany", "id": 1},
+     {"name": "Yanis Varoufakis", "roles": "Spiritus Rector", "id": 2},
+     {"name": "Luis Martin", "roles": "Circus Director", "id": 3},
+     {"name": "Mao Zedong", "roles": "Chair", "id": 4}
   ],
   "profile": {
     "name": "typicode"
