@@ -1,7 +1,7 @@
 {
   "users": [
      {"name": "David Schwertgen", "roles": "NC Germany", "id": 1},
-     {"name": "Yanis Varoufakis", "roles": "Spiritus Rector", "id": 2},
+     {"name": "Vincent Welsch", "roles": "NC Germany", "id": 2},
      {"name": "Luis Martin", "roles": "Circus Director", "id": 3},
      {"name": "Mao Zedong", "roles": "Chair", "id": 4}
   ],
