@@ -8,7 +8,8 @@
      {"name": "Janina Urban", "roles": "NC Germany", "id": 3},
      {"name": "Myriam Zekagh", "roles": "NC France", "id": 4},
      {"name": "Brice Montagne", "roles": "NC France", "id": 5},
-     {"name": "Alexander Wall", "roles": "DSC Porto", "id": 6}
+     {"name": "Alexander Wall", "roles": "DSC Porto", "id": 6},
+      {"name": "Kristina Eichel", "roles": "DSC Berlin", "id": 7}
   ],
   "profile": {
     "name": "typicode"
