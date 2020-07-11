@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {"name": "Manuel Leitlauf", "roles": "DSC Nürnberg", "id": 1}
+    ],
+  "users": [
+     {"name": "David Schwertgen", "roles": "NC Germany", "id": 1},
+     {"name": "Vincent Welsch", "roles": "NC Germany", "id": 2},
+     {"name": "Janina Urban", "roles": "NC Germany", "id": 3},
+     {"name": "Myriam Zekagh", "roles": "NC France", "id": 4},
+     {"name": "Brice Montagne", "roles": "NC France", "id": 5},
+     {"name": "Alexander Wall", "roles": "DSC Porto", "id": 6},
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
