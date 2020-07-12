@@ -12,7 +12,8 @@
      {"name": "Kristina Eichel", "roles": "DSC Berlin", "id": 7},
      {"name": "Arman Hatamkhani", "roles": "DSC Goettingen", "id": 8},
      {"name": "Jakob Mohr", "roles": "NC Germany", "id": 9},
-      {"name": "Carlos Ferraz", "roles": "DSC Helsinki", "id": 10}
+     {"name": "Carlos Ferraz", "roles": "DSC Helsinki", "id": 10},
+      {"name": "Jan Luebben", "roles": "NC Germany", "id": 11}
     
   ],
   "profile": {
