@@ -13,7 +13,9 @@
      {"name": "Arman Hatamkhani", "roles": "DSC Goettingen", "id": 8},
      {"name": "Jakob Mohr", "roles": "NC Germany", "id": 9},
      {"name": "Carlos Ferraz", "roles": "DSC Helsinki", "id": 10},
-      {"name": "Jan Luebben", "roles": "NC Germany", "id": 11}
+      {"name": "Jan Luebben", "roles": "NC Germany", "id": 11},
+    {"name": "Jo Kohout", "roles": "DSC Prague", "id": 12},
+    {"name": "Yiota Christopoulou", "roles": "Member", "id": 13}
     
   ],
   "profile": {
