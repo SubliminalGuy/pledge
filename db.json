@@ -14,12 +14,13 @@
      {"name": "Jakob Mohr", "roles": "NC Germany", "id": 9},
      {"name": "Carlos Ferraz", "roles": "DSC Helsinki", "id": 10},
       {"name": "Jan Luebben", "roles": "NC Germany", "id": 11},
-    {"name": "Jo Kohout", "roles": "DSC Prague", "id": 12},
-    {"name": "Yiota Christopoulou", "roles": "Member", "id": 13},
-    {"name": "Alexander Tiffin", "roles": "Member", "id": 14},
-    {"name": "Sebastiaan Kampers", "roles": "DD-DSC", "id": 15},
-    {"name": "Peter Paalanen", "roles": "DSC Helsinki", "id": 16},
-    {"name": "Mame Faye-Rexhepi", "roles": "Member", "id": 17}
+      {"name": "Jo Kohout", "roles": "DSC Prague", "id": 12},
+      {"name": "Yiota Christopoulou", "roles": "Member", "id": 13},
+      {"name": "Alexander Tiffin", "roles": "Member", "id": 14},
+      {"name": "Sebastiaan Kampers", "roles": "DD-DSC", "id": 15},
+      {"name": "Peter Paalanen", "roles": "DSC Helsinki", "id": 16},
+      {"name": "Mame Faye-Rexhepi", "roles": "Member", "id": 17},
+      {"name": "Marcus Graetsch", "roles": "DSC Berlin", "id": 18}
     
   ],
   "profile": {
