@@ -1,7 +1,7 @@
 {
   "candidates": [
     {"name": "Manuel Leitlauf", "roles": "DSC Nuernberg", "id": 1},
-    {"name": "Angela Lacerda-Nobre", "roles": "DSC Lisboa", "id": 2}
+    {"name": "Angela Lacerda Nobre", "roles": "DSC Lisboa", "id": 2}
     ],
   "users": [
      {"name": "David Schwertgen", "roles": "NC Germany", "id": 1},
