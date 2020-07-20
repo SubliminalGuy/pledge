@@ -39,7 +39,8 @@
   "users2": [
       {"name": "Marco Mitic", "roles": "NC Portugal", "id": 31},
       {"name": "Steve Freytag", "roles": "NC Germany", "id": 32},
-      {"name": "Nikos Pettas", "roles": "DSC Patras", "id": 33}
+      {"name": "Nikos Pettas", "roles": "DSC Patras", "id": 33},
+      {"name": "Jose Azevedo", "roles": "Member", "id": 34}
     ],
   "profile": {
     "name": "typicode"
