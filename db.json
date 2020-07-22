@@ -43,7 +43,9 @@
       {"name": "Jose Azevedo", "roles": "Member", "id": 34},
       {"name": "Jacques Terrenoire", "roles": "NC France", "id": 35},
       {"name": "Samuli Laine", "roles": "DSC Helsinki", "id": 36},
-      {"name": "Piet-Hein Felix", "roles": "NC Netherlands", "id": 37}
+      {"name": "Piet-Hein Felix", "roles": "NC Netherlands", "id": 37},
+      {"name": "Travis Vowinkel", "roles": "Member", "id": 38}
+    
     ],
   "profile": {
     "name": "typicode"
