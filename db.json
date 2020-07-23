@@ -46,8 +46,8 @@
       {"name": "Samuli Laine", "roles": "DSC Helsinki", "id": 36},
       {"name": "Piet-Hein Felix", "roles": "NC Netherlands", "id": 37},
       {"name": "Travis Vowinkel", "roles": "Member", "id": 38}
-    
-    ],
+      {"name": "Michele Heyvaert", "roles": "NC Belgium", "id": 39}
+ ],
   "profile": {
     "name": "typicode"
   }
