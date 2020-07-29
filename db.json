@@ -50,7 +50,7 @@
       {"name": "Patricia Silva", "roles": "DSC NY", "id": 40},
       {"name": "Adrian Vlaicu", "roles": "Member", "id": 41},
       {"name": "Joshua Pray", "roles": "DSC Prague", "id": 42},
-      {"name": "Maartje de Meer", "roles": "Member", "id": 43}
+      {"name": "Maartje deMeer", "roles": "Member", "id": 43}
  ],
   "profile": {
     "name": "typicode"
