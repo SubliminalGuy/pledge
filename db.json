@@ -52,7 +52,8 @@
       {"name": "Joshua Pray", "roles": "DSC Prague", "id": 42},
       {"name": "Maartje de Meer", "roles": "Member", "id": 43},
       {"name": "Rosanna Martens", "roles": "CC Member", "id": 44},
-      {"name": "Koen Wouters", "roles": "NC Belgium", "id": 45}
+      {"name": "Koen Wouters", "roles": "NC Belgium", "id": 45},
+    {"name": " Jasper Finkeldey", "roles": "Member", "id": 46}
  ],
   "profile": {
     "name": "typicode"
