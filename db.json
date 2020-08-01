@@ -51,7 +51,8 @@
       {"name": "Adrian Vlaicu", "roles": "Member", "id": 41},
       {"name": "Joshua Pray", "roles": "DSC Prague", "id": 42},
       {"name": "Maartje de Meer", "roles": "Member", "id": 43},
-      {"name": "Rosanna Martens", "roles": "CC Member", "id": 44}
+      {"name": "Rosanna Martens", "roles": "CC Member", "id": 44},
+      {"name": "Koen Wouters", "roles": "NC Belgium", "id": 45}
  ],
   "profile": {
     "name": "typicode"
