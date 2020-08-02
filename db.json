@@ -2,7 +2,8 @@
   "candidates": [
     {"name": "Manuel Leitlauf", "roles": "DSC Nuernberg", "id": 1},
     {"name": "Angela Lacerda Nobre", "roles": "DSC Lisboa", "id": 2},
-    {"name": "Stefania Romano", "roles": "NC Italy", "id": 3}
+    {"name": "Stefania Romano", "roles": "NC Italy", "id": 3},
+    {"name": "Patrizia Pozzo", "roles": "NC Italy", "id": 4}
     ],
   "users": [
        {"name": "David Schwertgen", "roles": "NC Germany", "id": 1},
