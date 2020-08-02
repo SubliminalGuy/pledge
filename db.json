@@ -56,7 +56,8 @@
       {"name": "Koen Wouters", "roles": "NC Belgium", "id": 45},
       {"name": "Jasper Finkeldey", "roles": "Member", "id": 46},
       {"name": "Gabriel Popham", "roles": "NC UK ex officio", "id": 47},
-      {"name": "Michele Fiorillo", "roles": "EW Italy", "id": 48}
+      {"name": "Michele Fiorillo", "roles": "EW Italy", "id": 48},
+      {"name": "Melanie Rieken", "roles": "DSC Berlin", "id": 49}
  ],
   "profile": {
     "name": "typicode"
