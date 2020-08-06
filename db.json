@@ -64,7 +64,9 @@
       {"name": "Benjamin Erd", "roles": "Member", "id": 51},
       {"name": "Johannes Hummler", "roles": "DSC Leipzig", "id": 52},
       {"name": "David Reich", "roles": "Member", "id": 53},
-      {"name": "Veralisa Massari", "roles": "EW Italy", "id": 54}
+      {"name": "Veralisa Massari", "roles": "EW Italy", "id": 54},
+      {"name": "Antonella Trocino", "roles": "NC Italy", "id": 55} 
+    
  ],
   "profile": {
     "name": "typicode"
