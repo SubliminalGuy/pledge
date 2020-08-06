@@ -5,7 +5,8 @@
     {"name": "Stefania Romano", "roles": "NC Italy", "id": 3},
     {"name": "Patrizia Pozzo", "roles": "NC Italy", "id": 4},
     {"name": "Jose Macedo Barros", "roles": "Grassroots Activist", "id": 5},
-    {"name": "Andrea Serra", "roles": "NC Italy", "id": 6}
+    {"name": "Andrea Serra", "roles": "NC Italy", "id": 6},
+    {"name": "Veralisa Massari", "roles": "EW Italy", "id": 7}
     ],
   "users": [
        {"name": "David Schwertgen", "roles": "NC Germany", "id": 1},
@@ -64,8 +65,7 @@
       {"name": "Benjamin Erd", "roles": "Member", "id": 51},
       {"name": "Johannes Hummler", "roles": "DSC Leipzig", "id": 52},
       {"name": "David Reich", "roles": "Member", "id": 53},
-      {"name": "Veralisa Massari", "roles": "EW Italy", "id": 54},
-      {"name": "Antonella Trocino", "roles": "NC Italy", "id": 55} 
+      {"name": "Antonella Trocino", "roles": "NC Italy", "id": 54} 
     
  ],
   "profile": {
