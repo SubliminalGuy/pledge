@@ -10,7 +10,8 @@
     {"name": "Veralisa Massari", "roles": "EW Italy", "id": 8},
     {"name": "Angelos Kaklamanis", "roles": "Member", "id": 9},
     {"name": "Silvia Terribili", "roles": "DSC Amsterdam", "id": 10},
-{"name": "Dolores Bajo", "roles": "NC Spain", "id": 11}    
+    {"name": "Dolores Bajo", "roles": "NC Spain", "id": 11},
+    {"name": "Julijana Zita", "roles": "EW Germany", "id": 12}
     ],
   "users": [
        {"name": "David Schwertgen", "roles": "NC Germany", "id": 1},
