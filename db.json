@@ -7,7 +7,9 @@
     {"name": "Jose Macedo Barros", "roles": "Grassroots Activist", "id": 5},
     {"name": "Andrea Serra", "roles": "NC Italy", "id": 6},
     {"name": "Beral Seher Madra", "roles": "PNC Turkey", "id": 7},
-    {"name": "Veralisa Massari", "roles": "EW Italy", "id": 8}
+    {"name": "Veralisa Massari", "roles": "EW Italy", "id": 8},
+    {"name": "Angelos Kaklamanis", "roles": "Member", "id": 8}
+    
     ],
   "users": [
        {"name": "David Schwertgen", "roles": "NC Germany", "id": 1},
