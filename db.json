@@ -12,7 +12,8 @@
     {"name": "Silvia Terribili", "roles": "DSC Amsterdam", "id": 10},
     {"name": "Dolores Bajo", "roles": "NC Spain", "id": 11},
     {"name": "Julijana Zita", "roles": "EW Germany", "id": 12},
-    {"name": "Jochen Schult", "roles": "NC Greece", "id": 13}
+    {"name": "Jochen Schult", "roles": "NC Greece", "id": 13},
+    {"name": "Julia Moore", "roles": "Member", "id": 14}
     ],
   "users": [
        {"name": "David Schwertgen", "roles": "NC Germany", "id": 1},
