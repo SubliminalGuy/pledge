@@ -74,10 +74,12 @@
       {"name": "David Reich", "roles": "Member", "id": 53},
       {"name": "Antonella Trocino", "roles": "NC Italy", "id": 54},
       {"name": "Ian Clotworthy", "roles": "NC Germany ex officio", "id": 55},
-      {"name": "Aldo Arbore", "roles": "Member", "id": 56}
-    
-    
-    
+      {"name": "Aldo Arbore", "roles": "Member", "id": 56},
+      {"name": "Angelika Frey", "roles": "DSC Regensburg", "id": 57},
+      {"name": "Cora Wolf", "roles": "DSC Regensburg", "id": 58},
+      {"name": "Anja Ebert", "roles": "DSC Regensburg", "id": 59},
+      {"name": "Franz Hollerauer", "roles": "DSC Regensburg", "id": 60}
+        
  ],
   "profile": {
     "name": "typicode"
