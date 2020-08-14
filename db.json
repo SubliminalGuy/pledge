@@ -81,6 +81,9 @@
       {"name": "Franz Hollerauer", "roles": "DSC Regensburg", "id": 60}
         
  ],
+   "users3": [
+      {"name": "Francky Petit", "roles": "Member", "id": 61},     
+ ],
   "profile": {
     "name": "typicode"
   }
