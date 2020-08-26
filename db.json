@@ -83,7 +83,8 @@
       {"name": "Francky Petit", "roles": "Member", "id": 61},
       {"name": "Angelos Kaklamanis", "roles": "Member", "id": 62},
       {"name": "Jose Macedo Barros", "roles": "Grassroots Activist", "id": 63},
-      {"name": "Marian Evans", "roles": "Member", "id": 64}
+      {"name": "Marian Evans", "roles": "Member", "id": 64},
+     {"name": "Derek Lowe", "roles": "Member", "id": 65}
  ],
   "profile": {
     "name": "typicode"
