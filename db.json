@@ -84,7 +84,8 @@
       {"name": "Angelos Kaklamanis", "roles": "Member", "id": 62},
       {"name": "Jose Macedo Barros", "roles": "Grassroots Activist", "id": 63},
       {"name": "Marian Evans", "roles": "Member", "id": 64},
-     {"name": "Derek Lowe", "roles": "Member", "id": 65}
+     {"name": "Derek Lowe", "roles": "Member", "id": 65},
+     {"name": "Sabine Labs", "roles": "DSC Berlin", "id": 66}
  ],
   "profile": {
     "name": "typicode"
