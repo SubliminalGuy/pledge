@@ -1,17 +1,8 @@
 {
   "candidates": [
-    {"name": "Manuel Leitlauf", "roles": "DSC Nuernberg", "id": 1},
-    {"name": "Angela Lacerda Nobre", "roles": "DSC Lisboa", "id": 2},
-    {"name": "Stefania Romano", "roles": "NC Italy", "id": 3},
-    {"name": "Patrizia Pozzo", "roles": "NC Italy", "id": 4},
-    {"name": "Andrea Serra", "roles": "NC Italy", "id": 5},
-    {"name": "Beral Seher Madra", "roles": "PNC Turkey", "id": 6},
-    {"name": "Veralisa Massari", "roles": "EW Italy", "id": 7},
-    {"name": "Silvia Terribili", "roles": "DSC Amsterdam", "id": 8},
-    {"name": "Dolores Bajo", "roles": "NC Spain", "id": 9},
-    {"name": "Julijana Zita", "roles": "EW Germany", "id": 10},
-    {"name": "Jochen Schult", "roles": "NC Greece", "id": 11},
-    {"name": "Julia Moore", "roles": "Member", "id": 12}
+    {"name": "Patrizia Pozzo", "roles": "NC Italy", "id": 1},
+    {"name": "Beral Seher Madra", "roles": "PNC Turkey", "id": 2},
+    {"name": "Julijana Zita", "roles": "EW Germany", "id": 3}
     ],
   "users": [
        {"name": "David Schwertgen", "roles": "NC Germany", "id": 1},
@@ -84,8 +75,18 @@
       {"name": "Angelos Kaklamanis", "roles": "Member", "id": 62},
       {"name": "Jose Macedo Barros", "roles": "Grassroots Activist", "id": 63},
       {"name": "Marian Evans", "roles": "Member", "id": 64},
-     {"name": "Derek Lowe", "roles": "Member", "id": 65},
-     {"name": "Sabine Labs", "roles": "DSC Berlin", "id": 66}
+      {"name": "Derek Lowe", "roles": "Member", "id": 65},
+      {"name": "Sabine Labs", "roles": "DSC Berlin", "id": 66},
+      {"name": "Jochen Schult", "roles": "NC Greece", "id": 67},
+      {"name": "Julia Moore", "roles": "Member", "id": 68},
+      {"name": "Veralisa Massari", "roles": "EW Italy", "id": 69},
+      {"name": "Silvia Terribili", "roles": "DSC Amsterdam", "id": 70},
+      {"name": "Dolores Bajo", "roles": "NC Spain", "id": 71},
+      {"name": "Andrea Serra", "roles": "NC Italy", "id": 72},
+      {"name": "Manuel Leitlauf", "roles": "DSC Nuernberg", "id": 73},
+      {"name": "Angela Lacerda Nobre", "roles": "DSC Lisboa", "id": 74},
+      {"name": "Stefania Romano", "roles": "NC Italy", "id": 75}
+     
  ],
   "profile": {
     "name": "typicode"
